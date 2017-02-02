@@ -10,3 +10,5 @@ sh run_me.sh
 ```
 
 Then once you go to `http://localhost:9292/`, you will see the simple output. Each commit also include the output that you should get so you can compare the result.
+
+Another thing is calling `rackup`, that command automatically looks for the `config.ru`. Hence there is modification inside `run_me.sh`.

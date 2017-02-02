@@ -3,9 +3,9 @@
 `http://localhost:9292/`
 
 ```
-Hello World 2!
+Hello World 3!
 ```
 
 # Note
 
-Pay attention to the file extension `hello_world.ru`, not `*.rb`
+Ruby file has extension `*.rb`, we can still run all the Ruby classes with Rack. We can do that with `config.ru`, and we call `run HelloWorld.new` inside that file.
