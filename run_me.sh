@@ -1,1 +1,1 @@
-rackup lambda_example.ru
+rackup hello_world.ru
